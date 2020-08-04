@@ -1,3 +1,5 @@
+To open complete file -> readme.md -> raw
+
 Login Retrofit is a simple login signup app.
 Try understanding code and implementing as importing might get you errors due to version issues
 
